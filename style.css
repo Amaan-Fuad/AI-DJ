@@ -1,0 +1,34 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    background-size: cover;
+}
+.divspeedimg{
+    width: 200px;
+    border-radius: 100px;
+}
+.divvolumeimage{
+    width: 200px;
+    border-radius: 100px;
+}
+.divspeed{
+    float: left;
+}
+.divvolume{
+    float: right;
+}
+#speed{
+    font-size: 25px;
+    margin: 15px;
+}
+#volume{
+    font-size: 25px;
+    margin: 15px;
+}
+.play_button{
+width: 130px;
+font-size: 25px;
+}
+canvas{
+    border-radius: 20px;
+    border: 5px dashed lightblue;
+}
